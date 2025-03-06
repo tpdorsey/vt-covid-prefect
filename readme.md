@@ -2,6 +2,8 @@
 
 A rewrite of my [Vermont Covid-19 Jupyter Notebook](https://github.com/tpdorsey/vt-covid-jupyter-charts) as a [Prefect](https://prefect.io) task flow.
 
+**Note:** Vermont stopped updating Covid-19 case reporting on 09/21/2022. This project remains online for historical interest.
+
 The flow creates three charts based on Vermont Covid-19 case reporting and saves them as .png files:
 
 - New cases and related data with a rolling 7-day average.
